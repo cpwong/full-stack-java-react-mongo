@@ -17,5 +17,6 @@ You will learn to develop a movie review application that will feature a separat
 ## Sample Code
 
 Backend (api): https://github.com/fhsinchy/movieist
+
 Frontend (app): https://github.com/GavinLonDigital/movie-gold-v1
 
